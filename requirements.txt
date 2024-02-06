@@ -1,0 +1,3 @@
+Flask==3.0.1
+Flask-Discord-Interaction==2.1.2
+pymongo==4.6.1
